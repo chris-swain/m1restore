@@ -1,8 +1,3 @@
- __  __ _   ___        _               
-|  \/  / | | _ \___ __| |_ ___ _ _ ___ 
-| |\/| | | |   / -_|_-<  _/ _ \ '_/ -_)
-|_|  |_|_| |_|_\___/__/\__\___/_| \___| 1.0
-                                        
 M1 Restore v1.0 - by sodium (MOB)
 
 IMEI Restore Utility for the Netgear Nighthawk M1 Hotspot Router
