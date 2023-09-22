@@ -1,4 +1,4 @@
-M1 Restore v1.0 - by sodium (MOB)
+M1 Restore v1.0
 
 IMEI Restore Utility for the Netgear Nighthawk M1 Hotspot Router
 
@@ -45,7 +45,4 @@ your device isn't in usb tether mode.
 the web interface to verify your IMEI was sucessfully updated. At this point
 you can power down the device, put a sim card and the battery back in.
 -----------------------------------------------------------------------------
-Shouts: MOB, HCH, tophat, techn0_logic, jouser, kf.
-B.Kerler for the sierrakeygen code.
 
-What? You thought we retired?
